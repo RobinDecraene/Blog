@@ -1,0 +1,35 @@
+header {
+  background-color: #9b977b;
+  padding: 1rem;
+}
+
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin: 0;
+}
+
+.widthNav {
+  width: 80%;
+  margin: 0;
+}
+
+nav a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: #e8e1cf;
+  font-weight: 600;
+  font-size: 1.2rem;
+}
+
+
+colors {
+  color: #cc8d78;
+  color: #2a2d1d;
+  color: #dcccba;
+  color: #e8e1cf;
+  color: #e8dec5;
+  color: #97413c;
+  color: #9b977b;
+}

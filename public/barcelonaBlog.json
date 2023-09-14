@@ -1,0 +1,36 @@
+[{
+        "id": 1,
+        "title": "Dag 1: Aankomen in Barcelona",
+        "blog_paragrafe_small": "Vandaag is de dag dat we vertrekken naar Barcelona! We zijn super vroeg moete opstaan want ons vliegtuig vertrok al om 10u45 :(...",
+        "blog_paragrafe": "Vandaag is de dag dat we vertrekken naar Barcelona! We zijn super vroeg moete opstaan want ons vliegtuig vertrok al om 10u45 :(. Maar daardoor konden we natuurlijk wel redelijk wat tijd al spenderen in Barcelona. Tegen dat we in het hotel waren was het al bijna 15u, we hebben dan onze kamer sleutel gekregen en zijn dan iets gaan eten in de Taco bell want we hadden heel de dag lang al niets gegeten. Het was eigenlijk wel nog lekker, jammer dat ze geen Taco bell hebben in België. We zijn ook naar de Sagrada familia geweest. Het is egt een heel groot gebouw maar het doet mij denken aan de efteling. Het is in nogal een speciale stijl gebouwd en het is nogsteeds niet af. Daarna hebben we nog wat door de straatjes gelopen en het was gezellig. S'avond heb ik een pasta gekocht want ik had egt geen honger meer. Een paar van mijn vrienden zijn dan nog naar een pizzeria gegaan en ze zijden dat het heel lekker was.",
+        "datum": "21/03/2023",
+        "image": "./images/dag-01.jpg"
+    },
+
+    {
+        "id": 2,
+        "title": "Dag 2: De stad ontdekken",
+        "blog_paragrafe_small": "Vandaag moesten we een wandeling make met de klas. We zijn naar parc Guell gegaan maar niet veel mensen wouden naar binnen omdat...",
+        "blog_paragrafe": "Vandaag moesten we een wandeling make met de klas. We zijn naar parc Guell gegaan maar niet veel mensen wouden naar binnen omdat het 10 euro was. Ik ben wel naar binnen gegaan samen met Charlotte. Het was daar wel nog mooi eigenlijk maar er was wel amper bereik daar. Ik probeerde af te spreke met Renate maar elke keer dat het lukte om te belle konde we maar een paar zinnen zeggen voor dat we elkaar niet meer verstonden. Uiteindelijk hebben we allebij gewoon rond gelopen en zijn we terug aan het hotel afgesproken. In de namidag zijn we eens naar het strand gegaan. Ik ben samen met Aeneas in het water gegaan en het was egt koud. Zo koud dat het in het begin een beetje moeilijk was om te ademen maar na een tijdje wende het wel en was het wel nog nice. Daarna zijn we op de dijk nog een cocktail gaan drinken en s'avonds zijn we tappas gaan eten. Het was wel nog lekker en heel leuk. In de terug weg naar huis is Charlotte haar gsm wel gestolen geweest dat was een mindere :( .",
+        "datum": "22/03/2023",
+        "image": "./images/dag-02.jpg"
+    },
+
+    {
+        "id": 3,
+        "title": "Dag 3: Het OFFF festival begint!",
+        "blog_paragrafe_small": "Het OFFF festival is gestart! Natuurlijk hebben we de dag gestart met naar het OFFF festival te gaan. Het was daar wel nog cool we...",
+        "blog_paragrafe": "Het OFFF festival is gestart! Natuurlijk hebben we de dag gestart met naar het OFFF festival te gaan. Het was daar wel nog cool we zijn naar twee sprekers gaan kijken maar er was niet egt iets over programeren jammer genoeg. Maar het was wel nog interesant. We zijn dan terug naar de kamer gegaan nadat we iets hebben gegeten en hebben dan effjes neer gelegen aangezien het gisteren een lastige en lange dag was. S'avonds zijn we naar de bunkers gegaan, je hebt daar een heel mooi uitzicht van de stad. We hadden een paar snacks mee gegenomen en hebben ons daar effen gezet het was wel gezellig alleen jammer van al die duive die maakte het iets minder gezellige. Ook waren er redelijk wat mensen daar. Maar dat was wel te verwachten het was daar natuurlijk wel heel mooi.",
+        "datum": "23/03/2023",
+        "image": "./images/dag-03.jpg"
+    },
+
+    {
+        "id": 4,
+        "title": "Dag 4: Naar de markt",
+        "blog_paragrafe_small": "Vandaag zijn we naar een overdekte markt gegaan. Er waren daar redelijk wat kraampjes met allemaal verschillende soorte dingen...",
+        "blog_paragrafe": "Vandaag zijn we naar een overdekte markt gegaan. Er waren daar redelijk wat kraampjes met allemaal verschillende soorte dingen. Vis, kruide, groente, fruit, ... Ik heb daar aardbeien op een stokje gekocht. De aardbeien zaten helemaal vol met chocolade en ze waren wel lekker. S'midags zijn we daar in de buurt iets gaan eten. De porties waren redelijk klein maar het was wel nog lekker. In de namidag zijn we naar het aquarium gegaan, het was heel leuk. Het aquarium zelf is niet zo groot maar ze hebben wel coole vissen. Ook moest je op een gegeven moment niet meer zelf stappen en kon je gewoon op een lopende band staan terwijl je naar de vissen keek. Onze benen waar toen wel al redelijk moe en dus hebben we ons gewoon neer gezet. Daarna zijn we nog een ijsje gaan eten. Wel ik heb eigenlijk een pannekoek met nutella geten want ik had niet veel zin in een ijsje maar het was wel heel lekker. S'avonds zijn we gewoon naar de hotel kamer gegaan en hebben we niet egt iets meer gedaan. We zijn in de buurt iets gaan eten en dat was het, iedereen was redelijk moe.",
+        "datum": "24/03/2023",
+        "image": "./images/dag-04.jpg"
+    }
+]

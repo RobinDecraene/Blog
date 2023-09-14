@@ -1,0 +1,30 @@
+.filter {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 80%;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #e8dec5;
+  box-shadow: 0.4rem 0.6rem 1rem rgb(42, 45, 29, 0.1);;
+  color: #2a2d1d;
+  width: 100%;
+  padding: 1rem;
+  margin: 0 0 3rem;
+}
+
+.title {
+  font-size: 1.5rem;
+  font-weight: 600;
+
+}
+
+.date {
+    color: #9b977b;
+    font-size: 0.8rem;
+}

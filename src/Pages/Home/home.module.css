@@ -1,0 +1,48 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background-color: #e8e1cf;
+  color: #2a2d1d;
+  width: 100%;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.inputfields {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  width: 75%;
+  margin: 0.5rem 0 1rem;
+  padding: 1.5rem 0;
+  justify-content: space-between;
+}
+
+.inputs {
+  display: flex;
+  flex-direction: row;
+  width: 32%;
+}
+
+.inputs label {
+  margin-right: 1rem;
+}
+
+input {
+  background-color: #e6e0d0;
+  border: #2a2d1d 1px solid;
+  box-shadow: inset 0 1px 4px rgba(0,0,0,.1);
+}
+
+.cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 80%;
+}
