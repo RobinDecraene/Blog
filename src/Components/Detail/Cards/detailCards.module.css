@@ -8,6 +8,13 @@
   width: 80%;
   margin-top: 4rem;
   color: #2a2d1d;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.tekstDetail {
+  width: 50%;
 }
 
 .titleDetail {
@@ -16,4 +23,9 @@
 
 .dateDetail {
   color: #9b977b;
+}
+
+.imgDetail {
+  width: 45%;
+  height: auto;
 }
