@@ -42,23 +42,6 @@ const Home = () => {
     return (<Loading/>)
   else return (
     <main>
-      <section className={style.inputfields}>
-
-        <div className={style.inputs}>
-        <label className={style.filter} htmlFor="name">
-          Naam:
-        <input id="name" name="name" type={"text"} value={formData} onChange={e => setFormdata(e.currentTarget.value)}/>
-        </label>
-        </div>
-        
-        <div className={style.inputs}>
-          <label className={style.filter} htmlFor="rating">
-            Datum:
-          <input id="rating" name="rating" type={"number"} value={formData} onChange={e => setFormdata(e.currentTarget.value)}/>
-          </label>
-        </div>
-        
-      </section>
 
       <section className={style.cards}>
 

@@ -10,6 +10,11 @@ nav {
   margin: 0;
 }
 
+.activeNav {
+  color: #2a2d1d;
+  text-decoration: underline;
+}
+
 .widthNav {
   width: 80%;
   margin: 0;
@@ -21,15 +26,4 @@ nav a {
   color: #e8e1cf;
   font-weight: 600;
   font-size: 1.2rem;
-}
-
-
-colors {
-  color: #cc8d78;
-  color: #2a2d1d;
-  color: #dcccba;
-  color: #e8e1cf;
-  color: #e8dec5;
-  color: #97413c;
-  color: #9b977b;
 }
