@@ -1,4 +1,4 @@
-# Game Wishlist
+# Blog
 Taak Mobile Development
 
 # Made with
