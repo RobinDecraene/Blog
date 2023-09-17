@@ -14,7 +14,7 @@
 }
 
 .tekstDetail {
-  width: 50%;
+  width: 80%;
 }
 
 .titleDetail {
@@ -26,6 +26,7 @@
 }
 
 .imgDetail {
-  width: 45%;
-  height: auto;
+  width: 40%;
+  height: 100%;
+  margin-top: 2rem;
 }
